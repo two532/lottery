@@ -70,4 +70,4 @@ def test_100_years():
         user_nums = user_choice_random()[0]
         ret_nums = ret_choice()
         pay_in += once_bouns(user_nums, ret_nums)
-    print("100 years laterr, you spend %i, and earn %i" % ( pay_out, pay_in))
+    print("100 years later, you spend %i, and earn %i" % ( pay_out, pay_in))
